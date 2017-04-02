@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MonthCircle">
+        <attr name="radius_big" format="integer"></attr>
+        <attr name="radius_small" format="integer"></attr>
+        <attr name="cricle_color" format="color"></attr>
+        <attr name="text_" format="string"></attr>
+        <attr name="text_size" format="integer"></attr>
+    </declare-styleable>
+
+</resources>
